@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="245dp"
+        android:orientation="vertical"
+        android:background="@drawable/banner"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffcc00"
+            android:layout_marginTop="205dp"
+            android:alpha="0.6"
+            >
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ABOUT"
+                android:textAlignment="center"
+                android:textColor="#fff"
+                android:textSize="30dp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="#4bcead">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="300dp"
+                    android:layout_height="500dp"
+                    android:layout_gravity="center"
+                    app:cardBackgroundColor="#37bc9b"
+                    android:layout_marginTop="10dp"
+                    app:cardCornerRadius="8dp"
+                    android:layout_marginBottom="10dp"
+                    android:textAlignment="center"
+
+                    >
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="410dp"
+                        android:textColor="#000"
+                        android:textSize="25dp"
+                        android:layout_gravity="center"
+                        android:text="@string/des"
+                        android:textAlignment="center"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        />
+
+                </android.support.v7.widget.CardView>
+
+
+
+            </LinearLayout>
+
+
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">BOOKTOOK</string>
+    <string name="ui">UI/UX design by</string>
+    <string name="Fi">Firebase Support</string>
+    <string name="ic">icons and badges by</string>
+    <string name="Me">Backend Support</string>
+    <string name="Ak">Akshay Anand</string>
+    <string name="des">The aim of this project is to create
+        an online application using tools
+        of Android Studiowith the idea of providing a platform to the students to purchase books at a low price from their seniors</string>
+    <string name="des2">
+        Akshay-1BG17CS010
+        Akash-1BG17CS008
+        Fatema  -1BG17CS026
+        Akash-1BG17CS009
+    </string>
+</resources>

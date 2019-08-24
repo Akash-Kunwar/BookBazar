@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "191770682721",
+    "firebase_url": "https://tatva-23e7e.firebaseio.com",
+    "project_id": "tatva-23e7e",
+    "storage_bucket": "tatva-23e7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191770682721:android:d6181b5031d87f1d",
+        "android_client_info": {
+          "package_name": "navigationdrawer.sunnyapps.com.tatva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191770682721-ktc61r5n5l26so69v1utrkua0vack9s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "navigationdrawer.sunnyapps.com.tatva",
+            "certificate_hash": "5b0844fa043bdb88009fb9e09bc252dc0a2a115a"
+          }
+        },
+        {
+          "client_id": "191770682721-lvij2568lden8gd79ppq1lp66fa3n4d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGuL5feU8qz_Aul2XCRckk5Q9qc_RVEJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191770682721-lvij2568lden8gd79ppq1lp66fa3n4d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
